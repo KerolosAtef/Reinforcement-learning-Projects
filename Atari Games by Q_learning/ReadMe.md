@@ -50,6 +50,8 @@ The job is to pick up the passenger at one location and drop them off in another
 **We used a brute force algorithm to get the best hyper parameter **
 ![Grid search values](https://drive.google.com/uc?export=view&id=1rS39uEeHeYdOn5SXAYKhAkGykmt9dkSX)
 
+**Experiments table**
+![parameters](https://drive.google.com/uc?export=view&id=1vXLt7JjRLveEa8oHBtU6jzd9GUvSiPft)
 **Best hyperparameters :**
 ```python
 alpha=0.9 ,gamma=0.9, epsilon=0.9
