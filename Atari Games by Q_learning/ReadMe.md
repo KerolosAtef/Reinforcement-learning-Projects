@@ -35,28 +35,28 @@ The job is to pick up the passenger at one location and drop them off in another
 
 # Training :
 ## Random Action :
-**Trying random actions to see how the agent movements**
+**Trying random actions to see how the agent movements**<br><br>
 ![Random Actions](https://drive.google.com/uc?export=view&id=17n6oBPFjce-AjRYUR9NDVb39VYSB3LP4)
 ## Q-Learning 
-**After the agent has been trained **
-![Q-learning](https://drive.google.com/uc?export=view&id=1UDjqQLfPtllelNdZkTptLZKHuXoG3AOD)
-<h4> We can notice the difference and how the agent has been trained </h4>
+**After the agent has been trained**<br><br>
+![Q-learning](https://drive.google.com/uc?export=view&id=1UDjqQLfPtllelNdZkTptLZKHuXoG3AOD)<br><br>
+We can notice the difference and how the agent has been trained
 ## Decaying hyper parameters while training
 
 ![Decay](https://drive.google.com/uc?export=view&id=1U6W79ftVPSUZ_Wcv762UP_p3dXmNc4fr)
 # Evaluation 
 ![Eval_100](https://drive.google.com/uc?export=view&id=1BAmzOSUVoL148BMOrDsRpKCP5jkn0RCN)
 # Grid search 
-**We used a brute force algorithm to get the best hyper parameter **
+**We used a brute force algorithm to get the best hyper parameter**<br><br>
 ![Grid search values](https://drive.google.com/uc?export=view&id=1rS39uEeHeYdOn5SXAYKhAkGykmt9dkSX)
 
-**Experiments table**
-![parameters](https://drive.google.com/uc?export=view&id=1vXLt7JjRLveEa8oHBtU6jzd9GUvSiPft)
+**Experiments table**<br><br>
+![parameters](https://drive.google.com/uc?export=view&id=1vXLt7JjRLveEa8oHBtU6jzd9GUvSiPft)<br><br>
 **Best hyperparameters :**
 ```python
 alpha=0.9 ,gamma=0.9, epsilon=0.9
 ```
 
-**Grid search evaluation**
+**Grid search evaluation**<br><br>
 ![Grid search](https://drive.google.com/uc?export=view&id=1KbCs0L-71cGMLk5-6TaMnYl1QbJtH5fp)
 
