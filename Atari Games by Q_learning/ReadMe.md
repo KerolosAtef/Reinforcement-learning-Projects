@@ -59,5 +59,5 @@ alpha=0.9 ,gamma=0.9, epsilon=0.9
 
 **Grid search evaluation**<br><br>
 ![Grid search](https://drive.google.com/uc?export=view&id=1KbCs0L-71cGMLk5-6TaMnYl1QbJtH5fp)<br><br>
-**Plot the Penalties and number of epochs in each iteration**<br><br>
+**Plot the Penalties and number of epochs in each iteration after training with the best parameters**<br><br>
 ![errors](https://drive.google.com/uc?export=view&id=10cZzQKTRVIIF0WiS1Pj7rvlTbyFAytoy)<br><br>
