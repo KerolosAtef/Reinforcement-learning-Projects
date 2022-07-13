@@ -1,0 +1,19 @@
+{
+    "grid":  """2XXTXXX
+                X     X
+                X C D X
+                X  1  X
+                X O P X
+                X     X
+                XXXSXXX""",
+                
+    "start_bonus_orders": [],
+    "start_all_orders" : [
+        { "ingredients" : ["laptop", "laptop", "laptop"]},
+
+
+    ],
+    "recipe_values" : [5],
+    "recipe_times" : [20],
+    "rew_shaping_params": None
+}

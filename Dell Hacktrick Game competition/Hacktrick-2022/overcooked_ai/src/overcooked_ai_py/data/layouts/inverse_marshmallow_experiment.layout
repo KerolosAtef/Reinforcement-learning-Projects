@@ -1,0 +1,21 @@
+{
+    "grid":  """XOXXXXXXXXXOX
+                X     X     X
+                XXXX  D  XXXX
+                XXS 2 P 1 SXX
+                XXXXXTXTXXXXX""",
+    "start_bonus_orders": [
+        { "ingredients" : ["projector", "projector", "projector"]}
+    ],
+    "start_all_orders" : [
+        { "ingredients" : ["projector"]},
+        { "ingredients" : ["laptop"]},
+        { "ingredients" : ["projector", "laptop", "projector"]},
+        { "ingredients" : ["projector", "projector", "projector"]},
+        { "ingredients" : ["laptop", "laptop", "laptop"]}
+    ],
+    "projector_value" : 21,
+    "laptop_value" : 13,
+    "projector_time" : 15,
+    "laptop_time" : 7
+}

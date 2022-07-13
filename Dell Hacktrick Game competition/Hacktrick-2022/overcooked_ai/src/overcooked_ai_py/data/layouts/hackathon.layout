@@ -1,0 +1,12 @@
+{
+    "grid":  """XPXXX
+                T   O
+                X1  S
+                XDCXX  """,
+    "start_bonus_orders": [],
+    "start_all_orders" : [
+        { "ingredients" : ["laptop", "laptop", "projector", "projector", "solar_cell"]}
+    ],
+    "recipe_values" : [20],
+    "recipe_times" : [20]
+}

@@ -1,0 +1,18 @@
+{
+    "grid":  """XXPXX
+                O  2T
+                X1  X
+                XDXSX""",
+    "start_bonus_orders": [
+        { "ingredients" : ["laptop", "projector"]},
+        { "ingredients" : ["laptop", "laptop", "laptop"]}
+    ],
+    "start_all_orders" : [
+        { "ingredients" : ["projector", "projector", "projector"]},
+        { "ingredients" : ["laptop", "laptop", "laptop"]},
+        { "ingredients" : ["laptop", "projector"] }
+    ],
+    "recipe_values" : [10, 20, 15],
+    "recipe_times" : [20, 15, 10],
+    "rew_shaping_params": None
+}

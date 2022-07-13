@@ -1,0 +1,16 @@
+{
+    "grid":  """XXPXXXX
+                O   2 S
+                XTPDXXX
+                O   1 S
+                XXXXXXX""",
+    "start_all_orders" : [
+        { "ingredients" : ["projector", "laptop", "laptop"]},
+        { "ingredients" : ["projector", "laptop"]}
+    ],
+    "start_state" : {"players": [{"position": [4, 3], "orientation": [-1, 0], "held_object": None}, {"position": [4, 1], "orientation": [0, -1], "held_object": None}], "objects": [{"name": "soup", "position": [2, 2], "_ingredients": [{"name": "projector", "position": [2, 2]}, {"name": "projector", "position": [2, 2]}], "_cooking_tick": -1, "is_cooking": False, "is_ready": False, "is_idle": True, "cook_time": -1}], "bonus_orders": [], "all_orders": [{"ingredients": ["projector", "laptop"]}, {"ingredients": ["projector", "laptop", "laptop"]}]},
+    "projector_value" : 21,
+    "laptop_value" : 13,
+    "projector_time" : 15,
+    "laptop_time" : 7
+}

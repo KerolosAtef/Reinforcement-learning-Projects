@@ -1,0 +1,11 @@
+GitPython
+memory_profiler
+sacred
+pymongo
+dill
+matplotlib
+requests
+pygame
+numpy
+seaborn==0.9.0
+ray[rllib]
